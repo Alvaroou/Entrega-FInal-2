@@ -1,0 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.Main{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #19231A;  
+    color: #F6AE2D;
+}
+.Main h1{
+    font-family:Cambria, New Roman;  
+    font-size: 100px;
+    position: relative;
+    left: 450px;
+}
+
+.Ubicación {
+    background-color: #D8CBC7;
+}
+.Datos{
+    background-color: #19231A;
+    color: #CC3F0C;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Datos h2{
+    width: 100%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: #33673B;
+}
+.Datos p{
+    font-family:Franklin Gothic, 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.Intendencia{
+    background-color: #D8CBC7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.Intendencia p{
+    font-size: 20px;
+}
+.Intendencia .box .img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.Intendencia h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    padding-bottom: 50px;
+}
